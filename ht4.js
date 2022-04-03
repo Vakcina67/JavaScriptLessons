@@ -1,0 +1,1 @@
+for (var count = 0; count <= 9; console.log(count++));
